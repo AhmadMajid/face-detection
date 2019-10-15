@@ -16,5 +16,5 @@ function startVideo() {
 }
 
 video.addEventListener('play', () => {
-  console.log('kjndflkan')
+  console.log('admaja')
 })
